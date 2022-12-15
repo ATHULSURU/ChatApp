@@ -21,7 +21,7 @@
     "react-navigation": "^4.0.10",
     "react-navigation-stack": "^1.10.2",
     "twilio": "^3.35.1",
-    "twilio-chat": "^3.3.2"
+    "twilio-chat": "^6.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.6.4",
